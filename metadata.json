@@ -1,6 +1,0 @@
-{
-  "name": "AI Arcade Snake Legends",
-  "description": "A feature-rich retro-modern Snake game with persistent high scores, customizable skins, campaign progression levels, obstacle maps, an AI-controlled rival snake, a witty real-time AI game commentator (Slyther), and an 'AI Prompt Laboratory' where player prompts can live-mod the board, rules, and food!",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
